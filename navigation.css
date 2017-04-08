@@ -1,0 +1,45 @@
+
+a {
+  color: #4169e1;
+}
+
+#wow a:hover {
+  color: deeppink;
+}
+
+#wow2 a:hover {
+  background-color: yellow;
+}
+
+#wow3 a:active {
+  font-size: 28px;
+}
+
+a:focus {
+  color: red;
+}
+
+h1 {
+  font-family: Georgia;
+  text-align: center;
+  color: #4169e1;
+}
+
+nav {
+  font-size: 1.5em;
+}
+
+main {
+  font-family: arial;
+  font-size: 1em;
+}
+
+
+
+
+
+
+
+
+
+
